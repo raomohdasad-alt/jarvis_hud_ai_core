@@ -1,4 +1,7 @@
-name: jarvis_final_ai
+  shared_preferences: ^2.2.3
+  speech_to_text: ^6.6.0
+  flutter_tts: ^4.0.2
+  name: jarvis_final_ai
 description: JARVIS FINAL SYSTEM
 publish_to: none
 
